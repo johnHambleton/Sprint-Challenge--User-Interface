@@ -195,3 +195,29 @@ background-color: teal;
 
 /* started about styling here  */
 
+h3 {
+    border: 3px solid black;
+	margin-top: 5%;
+	margin-bottom: 0px;
+	background-color: white;
+	border-radius: 6px;
+	padding: 10px 0px;
+	width: 35%;
+	text-align: center;
+}
+.about-middle-content {
+	width: 48%;
+	border-bottom: 2px dashed black;
+	padding: 2%;
+	margin-bottom: 4%;
+}
+.about-middle-section {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	border-top: 1px solid black;
+	border-bottom: 2px solid black;
+	padding-top: 4%;
+	width: 100%;
+	margin-top: 4%;
+}
