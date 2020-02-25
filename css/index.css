@@ -144,3 +144,85 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* started indext sytylilng hear  */
+
+header {
+    width: 100%;
+        margin-bottom: 2%;
+}
+header .container nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    width: 100%;
+    padding: 5% 5% 5% 0%;
+    }
+header .container nav a{
+    color: black;
+    text-decoration: none;
+}
+.middle-content .boxes .box1{
+background-color: teal;
+}
+.middle-content .boxes .box2 {
+    background-color: gold;
+}
+.middle-content .boxes .box3 {
+    background-color: cadetblue;
+}
+.middle-content .boxes .box4 {
+    background-color: coral;
+}
+.middle-content .boxes .box5 {
+    background-color: crimson;
+}
+.middle-content .boxes .box6 {
+    background-color: forestgreen;
+}
+.middle-content .boxes .box7 {
+    background-color: darkorchid;
+}
+.middle-content .boxes .box8 {
+    background-color: hotpink;
+}
+.middle-content .boxes .box9 {
+    background-color: indigo;
+}
+.middle-content .boxes .box10 {
+    background-color: dodgerblue;
+}
+
+/* started about styling here  */
+
+h3 {
+    border: 3px solid black;
+	margin-top: 5%;
+	margin-bottom: 0px;
+	background-color: white;
+	border-radius: 6px;
+	padding: 10px 0px;
+	width: 35%;
+	text-align: center;
+}
+.about-middle-content {
+	width: 48%;
+	border-bottom: 2px dashed black;
+	padding: 2%;
+	margin-bottom: 4%;
+}
+.about-middle-section {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	border-top: 1px dashed black;
+	padding-top: 4%;
+	width: 100%;
+	margin-top: 4%;
+}
+body .about-page .about-footer {
+    margin-top: 4%;   
+}
+.about-page .about-content {
+    padding: 2%;
+}
